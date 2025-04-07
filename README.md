@@ -33,9 +33,9 @@ A Java-based Sudoku Solver that uses backtracking algorithm with a simple Swing-
 - Timer for user solving mode
 
 ## 👨‍💻 Author
-- Name: [Your Name]
+- Name: Sai Sriram
 - Role: Java Developer
-- Email: your.email@example.com
+
 
 ## 📄 License
 This project is open-source under the MIT License.
